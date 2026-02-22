@@ -11,9 +11,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Abdultaufique&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdultaufique&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdultaufique&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Snake Game Repo View -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="left">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdultaufique&icon=0&color=0)](https://visitcount.itsvg.in)
