@@ -1,6 +1,69 @@
-# 💫 About Me:
-👋 Hi, I'm Abdul Taufique  <br><br>🎓 AIML and Data Science Engineer<br><br>💡 Passionate about building intelligent systems that solve real-world problems.  <br>Currently working on:<br>- 🏏 IPL Player Performance Prediction System (ML-based analytics)<br>- 🤖 Agentic AI for Smart Complaint Analysis<br>- 🌐 Smart Home Wireless Network Simulation (Cisco Packet Tracer)<br><br>🛠️ Tech Stack:<br>Python | Machine Learning | Data Science | Pandas | NumPy | Scikit-Learn | SQL | R | Git | Cisco Packet Tracer  <br><br>📊 Interested in:<br>Artificial Intelligence | Machine Learning | Predictive Modeling | Automation | Intelligent Systems  <br><br>🚀 Goal: To become an AI/MLOPs Engineer building impactful and scalable AI solutions.<br><br>📫 Let's connect and build something amazing!
+<h1 align="center">Hi 👋, I'm Abdul Taufique</h1>
+<h3 align="center">AI & Data Science Engineer | Building GenAI, Computer Vision & Full-Stack ML Applications</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Undergraduate;Building+GenAI+%2B+Computer+Vision+Apps;Python+%7C+FastAPI+%7C+Gemini+API+%7C+OpenCV;Open+to+AI%2FML+Internships" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdultaufique/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdultaufique8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://taufique-folio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 AI & Data Science undergraduate, passionate about building intelligent systems that solve real-world problems
+- 🧠 Focused on **Generative AI, Computer Vision, and Full-Stack ML deployment** — not just notebooks, but shipped products
+- 🌱 Currently exploring **multi-agent LLM pipelines** and **production-grade AI system design**
+- 🎯 Goal: become an AI/ML Engineer building impactful, scalable AI solutions
+- 💬 Ask me about Python, FastAPI, LLMs, Computer Vision, or RAG systems
+
+---
+
+### 🛠️ Currently Building
+
+| Project | Description | Links |
+|---|---|---|
+| ⚖️ **Judicia AI** | Multi-agent GenAI platform for judicial insight & transparency, powered by Google Gemini API | [Live](https://judicia-ai-powered-judicial-insight-transparency-oanoq26ca.vercel.app/) · [Code](https://github.com/Abdultaufique/Judicia-AI-powered-judicial-system) |
+| 🎥 **LSOYS AI** | Real-time classroom & library monitoring system using OpenCV, YOLOv8 & face recognition | [Live](https://lsoys-ai-classroom.onrender.com) · [Code](https://github.com/Abdultaufique/AI-CLASS-MONITORING-SYSTEM) |
+| 🌾 **AI Smart Farming** | Fertilizer & crop recommendation platform using ML-powered agriculture models | [Code](https://github.com/Abdultaufique/Fertilizer-Optimization-System) |
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,tensorflow,pytorch,opencv,git,github,docker,vercel,render,mongodb,postgres,sqlite,cpp,r&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Machine%20Learning-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Generative%20AI-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-LLMs-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Computer%20Vision-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Google%20Gemini%20API-58A6FF?style=flat-square" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdultaufique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdultaufique&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdultaufique&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>⚡ Let's connect and build something amazing!</i></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-taufique-6803622a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdultaufique8@gmail.com) 
