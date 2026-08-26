@@ -68,25 +68,6 @@
 </details>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdultaufique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdultaufique&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdultaufique&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdultaufique&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-</p>
-
----
-
-<p align="center"><i>⚡ Let's connect and build something amazing!</i></p>
 <!-- Snake Game Repo View -->
 
 <div align="left">
